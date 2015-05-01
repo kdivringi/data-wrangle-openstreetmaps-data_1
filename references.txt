@@ -1,0 +1,11 @@
+http://stackoverflow.com/questions/13652197/getting-array-elements-using-array-index-in-mongodb
+http://blog.mongolab.com/2014/08/a-primer-on-geospatial-data-and-mongodb/
+http://stackoverflow.com/questions/20883420/pymongo-asyncmongo-maxdistance-not-working
+http://geojson.org/geojson-spec.html#id4
+http://docs.mongodb.org/manual/administration/indexes-geo/
+http://maps.google.com/
+http://discussions.udacity.com/t/problem-loading-json-file/15793/5
+http://www.openstreetmap.org/
+https://wiki.openstreetmap.org/wiki/Main_Page
+http://overpass-api.de/query_form.html
+http://matplotlib.org/examples/pie_and_polar_charts/pie_demo_features.html
