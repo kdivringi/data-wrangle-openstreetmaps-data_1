@@ -1,0 +1,4 @@
+
+Map Area Link: http://www.openstreetmap.org/export#map=9/47.7301/-117.1129
+
+Originally I tried to center my map on Pullman, Washington, where I went to college. It wasn't big enough, even when I expanded the area to encompass the nearby cities of Moscow and Lewiston. An area encompassing  Pullman and Spokane (the closest city with decent Indian food) was too big. Eventually I settled on a map encompassing  Spokane and the nearby Coeur d'Alene in Idaho.
